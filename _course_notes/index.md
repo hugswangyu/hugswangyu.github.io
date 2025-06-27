@@ -18,9 +18,10 @@ author_profile: true
 
 * [**大二**]({{ '/course-notes/sophomore/' | relative_url }})
     * **课程列表：**
-        * 数字电子技术
         * 模拟电子技术
-        * 复变函数
+        * 数字电子技术
+        * 复变函数与积分变换
+        * 信号与系统
         * 电磁场与电磁波
         * 微机原理与单片机技术
         * CPLD&FPGA
