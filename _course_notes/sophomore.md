@@ -5,8 +5,7 @@ permalink: /course-notes/sophomore/
 author_profile: true
 ---
 
-
-这里汇总了我大二期间学习的课程笔记和相关网课资源推荐
+这里汇总了我大二期间学习的课程笔记和相关网课资源推荐。
 
 ---
 
@@ -41,7 +40,8 @@ author_profile: true
 
 ### 学习资源
 * **在线课程：** [复变函数（速成课） by 小严是个老实人](https://www.bilibili.com/video/BV19M4y1L7hd/?spm_id_from=333.337.search-card.all.click&vd_source=f12f18d6054b9822e00b713d3c3ae108)
-* **我的笔记：** [复变函数笔记 ](/files/Complex-Variable-Functions-Notes.pdf)
+* **我的笔记：** [复变函数笔记](/files/Complex-Variable-Functions-Notes.pdf)
+
 ---
 
 ## 信号与系统
@@ -50,12 +50,11 @@ author_profile: true
 信号与系统是电子信息工程领域的核心基础课程，主要研究连续时间信号和离散时间信号的分析与处理，以及线性时不变系统的特性。内容涵盖傅里叶变换、拉普拉斯变换、Z变换、卷积以及系统分析方法等。
 
 ### 学习资源
-* **在线课程：** [信号与系统合集 by 张锦皓Roger](https://www.bilibili.com/video/BV1qM411a7N2/?spm_id_from=333.337.search-card.all.click&vd_source=f12f18d6054b9822e00b713d3c3ae108) 
-* **配套ppt：** [信号与系统课程ppt](/files/Signals-and-Systems-ppt.zip)
-* **pbl作业：** [基于多径信道的无线通信系统中信号失真与恢复分析](/files/Signals-and-Systems-ppt.zip)
+* **在线课程：** [信号与系统合集 by 张锦皓Roger](https://www.bilibili.com/video/BV1qM411a7N2/?spm_id_from=333.337.search-card.all.click&vd_source=f12f18d6054b9822e00b713d3c3ae108)
+* **配套资源：** [信号与系统课程PPT](/files/Signals-and-Systems-PPT.zip)
+* **PBL作业：** [基于多径信道的无线通信系统中信号失真与恢复分析](/files/Signals-and-Systems-PBL-Analysis.zip) 
 
 ---
-
 
 ## 电磁场与电磁波
 
@@ -64,7 +63,9 @@ author_profile: true
 
 ### 学习资源
 * **在线课程：** [电磁场与电磁波 by西安电子科技大学 高晶亮](https://www.bilibili.com/video/BV1Cj411E7sQ/?spm_id_from=333.1387.homepage.video_card.click)
-* **我的笔记：** [电磁场与电磁波笔记](/files/Electromagnetic-Fields-Waves-Notes.pdf)
+* **我的笔记：** <br>
+    [电磁场与电磁波笔记 ](/files/Electromagnetic-Fields-Waves-Notes.pdf) <br>
+    [电磁场与电磁波重点及公式 ](/files/Electromagnetic-Fields-Waves-Summary.pdf) 
 
 ---
 
@@ -74,8 +75,11 @@ author_profile: true
 本课程介绍微型计算机的组成、工作原理、指令系统及接口技术，并深入探讨单片机的结构、编程和应用开发。
 
 ### 学习资源
-* **我的笔记：** [微机原理与单片机技术笔记](/files/Microcomputer-Principles-Notes.pdf)
-
+* **我的笔记：** <br>
+    [微机原理与单片机技术笔记](/files/Microcomputer-Principles-Notes.pdf) <br>
+    [微机原理半开卷8页小抄 ](/files/Microcomputer-Principles-Cheatsheet.pdf)  <br>
+    [微机原理Markdown笔记 ](/files/Microcomputer-Principles-Markdown-Notes.pdf) 
+* **知识点汇总：** [期末知识点整理 ](/files/Final-Exam-Knowledge-Summary.pdf)
 ---
 
 ## CPLD&FPGA
@@ -88,4 +92,6 @@ CPLD (复杂可编程逻辑器件) 和 FPGA (现场可编程门阵列) 是现代
 * **我的笔记：** [CPLD&FPGA 笔记](/files/CPLD-FPGA-Notes.pdf)
 
 ---
+
+
 
