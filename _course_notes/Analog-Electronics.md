@@ -1,4 +1,3 @@
-
 ---
 layout: single # 将 layout 从 'page' 改为 'single'，以匹配带有左侧边栏的布局
 title: "模拟电子技术笔记"
