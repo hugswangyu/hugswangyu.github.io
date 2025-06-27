@@ -18,8 +18,8 @@ author_profile: true
 ### 学习资源
 
 * **推荐教材:** <br>
-    [吉米多维奇高等数学习题]({{ '/files/Advanced-Mathematics-books.pdf' | relative_url }}) <br>
-    [普林斯顿微积分读本]({{ '/files/Princeton-Calculus-Reader.pdf' | relative_url }})
+    [吉米多维奇高等数学习题](/files/Advanced-Mathematics-books.pdf) <br>
+    [普林斯顿微积分读本](/files/Princeton-Calculus-Reader.pdf )
 * **在线课程：** [兆筱小分队](https://www.bilibili.com/video/BV1dJ411c7ab?spm_id_from=333.788.videopod.sections&vd_source=f12f18d6054b9822e00b713d3c3ae108)
 * **我的笔记：** [高等数学笔记 ](/files/Advanced-Mathematics-Notes.pdf) 
 
@@ -53,7 +53,7 @@ author_profile: true
 大学物理通常分为力学、热学、电磁学、光学和近代物理等部分。
 
 ### 学习资源
-* **我的笔记：** [大学物理笔记 (PDF)](/files/University-Physics-Notes.pdf)
+* **我的笔记：** [大学物理笔记](/files/University-Physics-Notes.pdf)
 
 ---
 
