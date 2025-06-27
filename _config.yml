@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "王雨 Wang Yu"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  location         : "Nanjing,China"
+  employer         : #"Red Brick University"
+  uri              : https://hugswangyu.github.io/
+  email            : "wy567481@gmail.com" 
 
   # Academic websites
   academia         : # URL
