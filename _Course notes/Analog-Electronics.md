@@ -1,7 +1,7 @@
 ---
 layout: page # 同样，指向你 _layouts 文件夹中用于普通页面的布局文件
 title: "模拟电子技术笔记" # 这个标题会显示在模电笔记页面的顶部
-permalink: /Course%20notes/Analog-Electronics/ # 核心：必须与 _Course notes/index.md 中指向它的链接完全匹配！
+permalink: /course-notes/Analog-Electronics/ # 核心：必须与 _Course notes/index.md 中指向它的链接完全匹配！
 ---
 
 ## 我的模拟电子技术学习笔记
