@@ -5,7 +5,7 @@ permalink: /course-notes/
 author_profile: true 
 ---
 
-# Welcome to my course notes!
+## Welcome to my course notes!
 
 这里汇总了我在学习电子信息专业时整理的笔记和资料。
 
