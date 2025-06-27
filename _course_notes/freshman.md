@@ -56,5 +56,3 @@ author_profile: true
 * **我的笔记：** [大学物理笔记](/files/University-Physics-Notes.pdf)
 
 ---
-
-[返回课程笔记主页]({{ '/course-notes/' | relative_url }})
