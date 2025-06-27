@@ -1,11 +1,9 @@
 ---
 layout: single
-title: "Books & Codes" # 保持页面标题清晰
+title: "# Books & Codes" 
 permalink: /books-codes/
 author_profile: true
 ---
-
-# Books & Code Projects
 
 这里汇总了一些常见的通信专业相关书籍和源码。
 
