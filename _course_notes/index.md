@@ -7,7 +7,7 @@ author_profile: true
 
 ## Welcome to my course notes!
 
-这里汇总了我在学习电子信息专业时整理的笔记和资料。
+这里汇总了我在学习电子信息专业的基础课程和主干必修课时整理的笔记资料和网课推荐
 
 * [**大一**]({{ '/course-notes/freshman/' | relative_url }})
     * **课程列表：**
