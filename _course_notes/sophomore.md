@@ -17,8 +17,8 @@ author_profile: true
 
 ### 学习资源
 * **在线课程：** <br>
-    [数字电子技术基础 by新手小牛](https://www.bilibili.com/video/BV1ZV411E7W5spm_id_from=333.788.videopod.episodes&vd_source=f12f18d6054b9822e00b713d3c3ae108) <br>
-    [数字电子技术基础 by郑益慧](https://www.bilibili.com/video/BV1Gt411B7Zg/spm_id_from=333.337.searchcard.all.click&vd_source=f12f18d6054b9822e00b713d3c3ae108)
+    [模拟电子技术基础 by新手小牛](https://www.bilibili.com/video/BV1GB4y1P79U/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=f12f18d6054b9822e00b713d3c3ae108) <br>
+    [模拟电子技术基础 by郑益慧](https://www.bilibili.com/video/BV1Gt411b7Zq/?spm_id_from=333.1391.0.0&vd_source=f12f18d6054b9822e00b713d3c3ae108)
 * **我的笔记：** [模拟电子技术笔记](/files/Analog-Electronics-Notes.pdf)
 
 ---
