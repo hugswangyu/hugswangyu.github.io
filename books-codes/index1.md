@@ -1,15 +1,18 @@
 ---
-layout: single 
-title: "Books&Codes" 
-permalink: /books-codes/ 
-author_profile: true 
+layout: single
+title: "Books & Codes" # 保持页面标题清晰
+permalink: /books-codes/
+author_profile: true
 ---
 
 # Books & Code Projects
 
-这里汇总了一些常见的通信专业相关书籍和源码
+这里汇总了一些常见的通信专业相关书籍和源码。
 
 ---
+
+## 书籍作品 (Books)
+
 ### 1. **[机器学习中的矩阵、向量求导 ]({{ '/files/Machine-Learning-Matrix-Vector-Calculus.pdf' | relative_url }})**
 * **概述:** 本书深入探讨了机器学习中涉及的矩阵和向量微积分基础知识，是理解深度学习和优化算法的关键。
 
@@ -19,12 +22,10 @@ author_profile: true
 
 ### 3. **[MIMO-OFDM无线通信技术及MATLAB实现 ]({{ '/files/MIMO-OFDM-Wireless-Comm-MATLAB.pdf' | relative_url }})**
 * **概述:** 详细介绍了MIMO-OFDM无线通信技术理论，并附带MATLAB代码实现，便于理解和实践。
-    * **[MATLAB实现代码 ]({{ '/files/MIMO-OFDM-MATLAB-Code.zip' | relative_url }})** 
+    * **[MATLAB实现代码 ]({{ '/files/MIMO-OFDM-MATLAB-Code.zip' | relative_url }})**
 
 ### 4. **[最优化：建模、算法与理论 (PDF)]({{ '/files/Optimization-Modeling-Algorithms-Theory.pdf' | relative_url }})**
 * **概述:** 全面讲解最优化理论的基础知识、建模方法、经典算法及其在不同领域的应用。
-    * **[课程PPT ]({{ '/files/Optimization-PPTs.zip' | relative_url }})** 
----
-
+    * **[课程PPT ]({{ '/files/Optimization-PPTs.zip' | relative_url }})**
 
 ---
