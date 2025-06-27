@@ -5,7 +5,6 @@ permalink: /course-notes/sophomore/
 author_profile: true
 ---
 
-# 大二课程详细笔记
 
 这里汇总了我大二期间学习的课程笔记和相关网课资源推荐。
 
