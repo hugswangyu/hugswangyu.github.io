@@ -1,7 +1,7 @@
 ---
 layout: page # 确保这个布局文件（如 page.html 或 default.html）存在于你的 _layouts 文件夹中
 title: "我的课程笔记" # 这个标题会显示在网站页面上，作为“课程笔记”模块的名称
-permalink: /Course notes/ # 核心：这个设置将让该文件成为你网站上 /Course notes/ 路径的入口页面
+permalink: /course-notes/ # 核心：这个设置将让该文件成为你网站上 /Course notes/ 路径的入口页面
 ---
 
 ## 欢迎来到我的课程笔记页面
