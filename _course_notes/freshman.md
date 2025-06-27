@@ -20,7 +20,7 @@ author_profile: true
 * **推荐教材:** <br>
     [吉米多维奇高等数学习题](/files/Advanced-Mathematics-books.pdf) <br>
     [普林斯顿微积分读本](/files/Princeton-Calculus-Reader.pdf )
-* **在线课程：** [兆筱小分队](https://www.bilibili.com/video/BV1dJ411c7ab?spm_id_from=333.788.videopod.sections&vd_source=f12f18d6054b9822e00b713d3c3ae108)
+* **在线课程：** [高等数学 by兆筱小分队](https://www.bilibili.com/video/BV1dJ411c7ab?spm_id_from=333.788.videopod.sections&vd_source=f12f18d6054b9822e00b713d3c3ae108)
 * **我的笔记：** [高等数学笔记 ](/files/Advanced-Mathematics-Notes.pdf) 
 
 ---
@@ -42,7 +42,7 @@ author_profile: true
 本课程介绍直流和交流电路的基本原理、分析方法，包括欧姆定律、基尔霍夫定律、节点分析、网孔分析以及暂态响应等。
 
 ### 学习资源
-* **在线课程：** [电路原理 清华大学于歆杰](https://www.icourses.cn/sCourse/course_2980.html)
+* **在线课程：** [电路原理 by清华大学于歆杰](https://www.icourses.cn/sCourse/course_2980.html)
 * **我的笔记：** [电路分析基础笔记](/files/Circuit-Analysis-Notes.pdf)
 
 ---
