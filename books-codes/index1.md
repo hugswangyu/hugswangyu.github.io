@@ -9,8 +9,6 @@ author_profile: true
 
 ---
 
-## 书籍作品 (Books)
-
 ### 1. **[机器学习中的矩阵、向量求导 ]({{ '/files/Machine-Learning-Matrix-Vector-Calculus.pdf' | relative_url }})**
 * **概述:** 本书深入探讨了机器学习中涉及的矩阵和向量微积分基础知识，是理解深度学习和优化算法的关键。
 
