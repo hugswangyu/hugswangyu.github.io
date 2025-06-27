@@ -78,7 +78,8 @@ author_profile: true
 * **我的笔记：** <br>
     [微机原理与单片机技术笔记](/files/Microcomputer-Principles-Notes.pdf) <br>
     [微机原理半开卷8页小抄 ](/files/Microcomputer-Principles-Cheatsheet.pdf)  <br>
-    [微机原理Markdown笔记 ](/files/Microcomputer-Principles-Markdown-Notes.pdf) 
+    [微机原理Markdown笔记 ](/files/Microcomputer-Principles-Markdown-Notes.pdf)
+  
 * **知识点汇总：** [期末知识点整理 ](/files/Final-Exam-Knowledge-Summary.pdf)
 ---
 
