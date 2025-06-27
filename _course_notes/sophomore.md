@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-这里汇总了我大二期间学习的课程笔记和相关网课资源推荐。
+这里汇总了我大二期间学习的课程笔记和相关网课资源推荐
 
 ---
 
@@ -42,8 +42,18 @@ author_profile: true
 ### 学习资源
 * **在线课程：** [复变函数（速成课） by 小严是个老实人](https://www.bilibili.com/video/BV19M4y1L7hd/?spm_id_from=333.337.search-card.all.click&vd_source=f12f18d6054b9822e00b713d3c3ae108)
 * **我的笔记：** [复变函数笔记 ](/files/Complex-Variable-Functions-Notes.pdf)
-
 ---
+
+## 信号与系统
+
+### 概述
+信号与系统是电子信息工程领域的核心基础课程，主要研究连续时间信号和离散时间信号的分析与处理，以及线性时不变系统的特性。内容涵盖傅里叶变换、拉普拉斯变换、Z变换、卷积以及系统分析方法等。
+
+### 学习资源
+* **在线课程：** [信号与系统 by 北京邮电大学 邓浩](https://www.bilibili.com/video/BV18y4y1R7kY/?spm_id_from=333.999.0.0) *(此为示例链接，请替换为实际课程链接)*
+* **我的笔记：** [信号与系统笔记](/files/Signals-and-Systems-Notes.pdf)
+---
+
 
 ## 电磁场与电磁波
 
