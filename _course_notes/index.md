@@ -9,18 +9,14 @@ author_profile: true
 
 这里汇总了我在学习电子信息专业时整理的笔记和资料。
 
-### 大一
-
-* [**大一课程**]({{ '/course-notes/freshman/' | relative_url }})
+* [**大一**]({{ '/course-notes/freshman/' | relative_url }})
     * **课程列表：**
         * 高等数学
         * 离散数学
         * 电路分析基础
         * 大学物理
 
-### 大二
-
-* [**大二课程**]({{ '/course-notes/sophomore/' | relative_url }})
+* [**大二**]({{ '/course-notes/sophomore/' | relative_url }})
     * **课程列表：**
         * 数字电子技术
         * 模拟电子技术
