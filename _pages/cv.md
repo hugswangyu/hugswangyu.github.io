@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+##Education
 ======
 •2025.07.07-07.30:🇸🇬  Nanyang Technological University
 
