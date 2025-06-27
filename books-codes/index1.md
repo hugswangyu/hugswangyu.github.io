@@ -12,7 +12,7 @@ author_profile: true
 ### 1. **[机器学习中的矩阵、向量求导 ]({{ '/files/Machine-Learning-Matrix-Vector-Calculus.pdf' | relative_url }})**
 * **概述:** 本书深入探讨了机器学习中涉及的矩阵和向量微积分基础知识，是理解深度学习和优化算法的关键。
 
-### 2. **[通信之道 从微积分到 5G (杨学志) ]({{ '/files/The-Way-of-Communication.pdf' | relative_url }})**
+### 2. **[通信之道 从微积分到 5G ]({{ '/files/The-Way-of-Communication.pdf' | relative_url }})**
 * **作者:** 杨学志
 * **概述:** 从数学基础微积分出发，系统讲解通信原理，并延伸至5G技术的前沿应用。
 
@@ -20,7 +20,7 @@ author_profile: true
 * **概述:** 详细介绍了MIMO-OFDM无线通信技术理论，并附带MATLAB代码实现，便于理解和实践。
     * **[MATLAB实现代码 ]({{ '/files/MIMO-OFDM-MATLAB-Code.zip' | relative_url }})**
 
-### 4. **[最优化：建模、算法与理论 (PDF)]({{ '/files/Optimization-Modeling-Algorithms-Theory.pdf' | relative_url }})**
+### 4. **[最优化：建模、算法与理论 ]({{ '/files/Optimization-Modeling-Algorithms-Theory.pdf' | relative_url }})**
 * **概述:** 全面讲解最优化理论的基础知识、建模方法、经典算法及其在不同领域的应用。
     * **[课程PPT ]({{ '/files/Optimization-PPTs.zip' | relative_url }})**
 
