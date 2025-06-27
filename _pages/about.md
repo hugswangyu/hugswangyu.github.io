@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second graduate student from Nanjing University of Information Science and Technology(NUIST),majoring in Electronic Information Engineering(NTU).I will attend the summer school of Nanyang Technological University as an exchange student,and the course I will take is Data Science and Artificial Intelligence.(2025.07)sponsored by JESIE.
+I am currently a second graduate student from Nanjing University of Information Science and Technology(NUIST),majoring in Electronic Information Engineering.I will attend the summer school of Nanyang Technological University(NTU)as an exchange student,and the course I will take is Data Science and Artificial Intelligence.(2025.07)sponsored by JESIE.
 
  
 A data-driven personal website
