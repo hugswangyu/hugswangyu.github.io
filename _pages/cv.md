@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# My CV
-
 ## Education
 
 * 2025.07.07-07.30:🇸🇬 Nanyang Technological University
