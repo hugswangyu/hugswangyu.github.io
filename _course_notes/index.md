@@ -5,9 +5,9 @@ permalink: /course-notes/
 author_profile: true 
 ---
 
-# 欢迎来到我的课程笔记页面
+# Welcome to my course notes!
 
-这里汇总了我在学习各门课程时整理的笔记和资料。点击下面的分类链接，探索更多内容！
+这里汇总了我在学习电子信息专业时整理的笔记和资料。
 
 ### 大一
 
@@ -23,6 +23,7 @@ author_profile: true
 * [**大二课程**]({{ '/course-notes/sophomore/' | relative_url }})
     * **课程列表：**
         * 数字电子技术
+        * 模拟电子技术
         * 复变函数
         * 电磁场与电磁波
         * 微机原理与单片机技术
