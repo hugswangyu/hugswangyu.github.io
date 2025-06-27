@@ -9,17 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-•2025.07.07-07.30:🇸🇬  Nanyang Technological University
+# My CV
 
+## Education
+
+* 2025.07.07-07.30:🇸🇬 Nanyang Technological University
   - course:MS0003,Data Science and Artificial Intelligence
 
-
-•2023.09 -Present:🇨🇳  School of Electronics & Information Engineering，NUIST
-
+* 2023.09 -Present:🇨🇳 School of Electronics & Information Engineering, NUIST
   - Bachelor of Engineering in Electronic Information Engineering
-
-  
-
-  
