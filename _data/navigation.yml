@@ -12,10 +12,10 @@ main:
     url: /publications/
 
   - title: "Course notes"
-    url: /Course notes/    
+    url: /course-notes/    
 
   - title: "Books&codes"
-    url: /Books&codes/    
+    url: /books-codes/    
     
   - title: "CV"
     url: /cv/
