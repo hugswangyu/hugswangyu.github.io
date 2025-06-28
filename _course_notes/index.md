@@ -12,6 +12,7 @@ author_profile: true
 * [**大一**]({{ '/course-notes/freshman/' | relative_url }})
     * **课程列表：**
         * 高等数学
+        * 概率论与数理统计
         * 离散数学
         * 电路分析基础
         * 大学物理
