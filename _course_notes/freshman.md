@@ -65,7 +65,7 @@ author_profile: true
 大学物理通常分为力学、热学、电磁学、光学和近代物理等部分。
 
 ### 学习资源
-* **我的笔记：** [大学物理笔记](/files/University-Physics-Notes.pdf)
 * **在线课程：** [大学物理 by风雪千山漫漫行](https://space.bilibili.com/414621270/lists?sid=390600)
+* **我的笔记：** [大学物理笔记](/files/University-Physics-Notes.pdf)
 
 ---
