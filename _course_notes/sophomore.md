@@ -55,7 +55,7 @@ author_profile: true
 * **PBL作业：** [基于多径信道的无线通信系统中信号失真与恢复分析](/files/Signals-and-Systems-PBL-Analysis.zip)
 
 ---
-
+  
 ## 电磁场与电磁波
 
 ### 概述
@@ -65,7 +65,7 @@ author_profile: true
 * **在线课程：** [电磁场与电磁波 by西安电子科技大学 高晶亮](https://www.bilibili.com/video/BV1Cj411E7sQ/?spm_id_from=333.1387.homepage.video_card.click)
 * **我的笔记：** <br>
     [电磁场与电磁波笔记](/files/Electromagnetic-Fields-Waves-Notes.pdf) <br>
-    [电磁场与电磁波重点及公式](/files/Electromagnetic-Fields-Waves-Summary.pdf)
+    [电磁场与电磁波重点及公式](/files/Electromagnetic-Fields-Waves-Summary.zip)
 
 ---
 
