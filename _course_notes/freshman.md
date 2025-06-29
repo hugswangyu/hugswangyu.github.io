@@ -32,6 +32,7 @@ author_profile: true
 
 ### 学习资源
 
+* **在线课程：** [概率论与数理统计精讲课程 by框框老师](https://www.bilibili.com/video/BV1194y1f7vr/?spm_id_from=333.337.search-card.all.click&vd_source=f12f18d6054b9822e00b713d3c3ae108)
 * **我的笔记：** <br>
     [答疑团概率论笔记 ](/files/Probability_Notes.pdf) <br>
     [概率论思维导图 ](/files/Probability_Mind_Map.zip) <br>
