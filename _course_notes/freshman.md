@@ -35,8 +35,10 @@ author_profile: true
 * **我的笔记：** <br>
     [答疑团概率论笔记 ](/files/Probability_Notes.pdf) <br>
     [概率论思维导图 ](/files/Probability_Mind_Map.zip) <br>
-    [概率论与数理统计公式整理 ](/files/Probability_formulas.pdf) 
+    [概率论与数理统计公式整理 ](/files/Probability_formulas.pdf)
+
 ---
+
 ## 离散数学 
 
 ### 概述
