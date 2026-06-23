@@ -74,3 +74,24 @@ This section includes my course notes and recommended online learning resources 
 * **我的笔记：** <br>
 [计网笔记](/files/Data-Communications-and-Computer-Networks-Notes.pdf) <br>
 [计网知识点](/files/Data-Communications-and-Computer-Networks-Key-Points.pdf)
+---
+
+## 物联网系统体系架构设计 IoT System Architecture Design
+
+### 概述
+本课程系统讲授物联网体系结构的设计原理与核心技术，涵盖物联网三层架构（感知层、网络层、应用层）、传感与检测技术、标识与定位技术（RFID、条形码、GPS、北斗），以及无线通信技术（WiFi、4G/5G、NB-IoT、LoRa）和物联网数据处理方法，兼顾底层硬件感知与系统整体架构设计能力的培养。
+
+### 学习资源 
+* **我的笔记：** 
+[教材题库整理](https://hugswangyu.github.io/iot-exam-prep/)
+---
+
+## 物联网终端操作系统 IoT Terminal Operating System
+
+### 概述
+本课程聚焦物联网终端侧操作系统的原理与实践，涵盖嵌入式系统基础、物联网操作系统关键技术（实时调度、低功耗、安全机制）、主流连接技术与通信协议（NB-IoT、LoRa、MQTT、CoAP、LwM2M），以及华为 LiteOS 的系统架构、STM32 移植、任务管理、信号量与互斥锁、消息队列、内存与中断管理等内核机制，兼顾操作系统理论与嵌入式工程实践。
+
+### 学习资源 
+* **我的笔记：** 
+[我的笔记](https://hugswangyu.github.io/iot-os-notes/) 
+
