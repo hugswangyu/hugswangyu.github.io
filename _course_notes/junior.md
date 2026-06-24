@@ -84,7 +84,6 @@ This section includes my course notes and recommended online learning resources 
 ### 学习资源 
 * **我的笔记：** 
 [教材题库整理](https://hugswangyu.github.io/iot-exam-prep/)
----
 
 ## 物联网终端操作系统 IoT Terminal Operating System
 
