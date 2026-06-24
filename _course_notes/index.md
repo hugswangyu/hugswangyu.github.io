@@ -35,4 +35,7 @@ This section includes my study notes and recommended online courses for the foun
         * High-Frequency Electronic Circuits（高频电子线路）
         * Fundamentals of Information Theory（信息论基础）
         * Data Communications and Computer Networks（数据通信与计算机网络）
+        * IoT System Architecture Design（物联网系统体系架构设计）
+        * IoT Terminal Operating System（物联网终端操作系统）
+
    
